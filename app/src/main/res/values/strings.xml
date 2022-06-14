@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">andrLab2</string>
+    <string name="app_name">lab3</string>
 
     <string-array name="typesArray">
         <item>Gaming</item>
