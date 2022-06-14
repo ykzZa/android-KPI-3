@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">andrLab2</string>
+
+    <string-array name="typesArray">
+        <item>Gaming</item>
+        <item>Universal</item>
+        <item>Business</item>
+        <item>Protected</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
